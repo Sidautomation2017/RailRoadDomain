@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extentreports>
+    <configuration>
+        <encoding>UTF-8</encoding>
+        <theme>dark</theme>
+        <documentTitle>My Customized report</documentTitle> <!-- This title will be displayed as browser title for the page -->
+        <reportName>MMCS ISS Automation Report</reportName>  <!-- This will be your report heading -->
+        <scripts>
+        <dateFormat>dd-MM-yyyy</dateFormat>
+         <timeFormat>HH:mm:ss</timeFormat>
+    <![CDATA[
+        $(document).ready(function() {
+            $('#parentWithoutNodes').prop("checked", true).click();
+            $('#test-count-setting > div.modal-footer > a')[0].click();
+        });
+    ]]>
+</scripts>
+    </configuration>
+</extentreports>

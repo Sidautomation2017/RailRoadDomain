@@ -1,0 +1,739 @@
+06-03-2019 15:40:18 [main] INFO  com.pkg.testcases.SetSystemStatus - Row Count is: 6
+06-03-2019 15:40:20 [main] DEBUG com.pkg.testcases.SetSystemStatus - [0, 1, 2, 3, 4, 5]
+06-03-2019 15:40:20 [main] DEBUG com.pkg.testcases.SetSystemStatus - [[1, Flow 15 - 1st scenario, 611, false, ST, 202, 2, 0, null, no update , NA, NA], [2, Flow 15 - 2nd scenario, 612, false, US, 202, 3, 0, null, no update , NA, NA], [3, Flow 15 -3rd scenario, 613, false, FS, 202, 11, 0, AB, no update , NA, NA], [4, Flow 8- 1st scenario, 614, false, ST, 202, 2, 0, null, no update , NA, NA], [5, Flow 8- 2nd scenario, 616, false, US, 202, 3, 0, null, no update , NA, NA], [6, Flow 8- 3rd scenario, 617, false, FS, 202, 11, 0, AB, no update , NA, NA]]
+06-03-2019 15:40:20 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 0 is in progress
+06-03-2019 15:40:24 [main] INFO  com.pkg.testcases.SetSystemStatus - 611
+06-03-2019 15:40:26 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-03-2019 15:40:26 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 1 is in progress
+06-03-2019 15:40:30 [main] INFO  com.pkg.testcases.SetSystemStatus - 612
+06-03-2019 15:40:32 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-03-2019 15:40:32 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 2 is in progress
+06-03-2019 15:40:34 [main] INFO  com.pkg.testcases.SetSystemStatus - 613
+06-03-2019 15:40:36 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-03-2019 15:40:36 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 3 is in progress
+06-03-2019 15:40:39 [main] INFO  com.pkg.testcases.SetSystemStatus - 614
+06-03-2019 15:40:41 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-03-2019 15:40:41 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 4 is in progress
+06-03-2019 15:40:43 [main] INFO  com.pkg.testcases.SetSystemStatus - 616
+06-03-2019 15:40:45 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-03-2019 15:40:45 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 5 is in progress
+06-03-2019 15:40:48 [main] INFO  com.pkg.testcases.SetSystemStatus - 617
+06-03-2019 15:40:50 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-03-2019 15:40:50 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 0 is in progress
+06-03-2019 15:42:29 [main] DEBUG com.pkg.testcases.SetSystemStatus - ===Test case failed===java.lang.AssertionError: expected [2] but found [3]
+06-03-2019 15:42:29 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 1 is in progress
+06-03-2019 15:42:35 [main] DEBUG com.pkg.testcases.SetSystemStatus - ===Test case failed===java.lang.AssertionError: expected [3] but found [4]
+06-03-2019 15:42:35 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 2 is in progress
+06-03-2019 15:42:42 [main] INFO  com.pkg.testcases.SetSystemStatus - postSettlementDispute- 2 is in progress
+06-03-2019 15:42:42 [main] DEBUG com.pkg.testcases.SetSystemStatus - ===Test case failed===java.lang.NumberFormatException: For input string: "no update "
+06-03-2019 15:42:42 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 3 is in progress
+06-03-2019 15:42:48 [main] INFO  com.pkg.testcases.SetSystemStatus - postSettlementDispute- 3 is in progress
+06-03-2019 15:42:48 [main] DEBUG com.pkg.testcases.SetSystemStatus - ===Test case failed===java.lang.NumberFormatException: For input string: "no update "
+06-03-2019 15:42:48 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 4 is in progress
+06-03-2019 15:42:54 [main] INFO  com.pkg.testcases.SetSystemStatus - postSettlementDispute- 4 is in progress
+06-03-2019 15:42:54 [main] DEBUG com.pkg.testcases.SetSystemStatus - ===Test case failed===java.lang.NumberFormatException: For input string: "no update "
+06-03-2019 15:42:54 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 5 is in progress
+06-03-2019 15:43:00 [main] INFO  com.pkg.testcases.SetSystemStatus - postSettlementDispute- 5 is in progress
+06-03-2019 15:43:00 [main] DEBUG com.pkg.testcases.SetSystemStatus - ===Test case failed===java.lang.NumberFormatException: For input string: "no update "
+06-03-2019 17:12:47 [main] INFO  com.pkg.testcases.DataSetter - Test data creation is started 
+06-03-2019 17:12:48 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 0 is in progress
+06-03-2019 17:12:51 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 0 is completed
+06-03-2019 17:12:51 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is in progress
+06-03-2019 17:12:53 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is completed
+06-03-2019 17:12:53 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is in progress
+06-03-2019 17:12:54 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is completed
+06-03-2019 17:12:55 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is in progress
+06-03-2019 17:12:56 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is completed
+06-03-2019 17:18:39 [main] INFO  com.pkg.testcases.DataSetter - Test data creation is started 
+06-03-2019 17:18:41 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:18:41 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 0 is in progress
+06-03-2019 17:18:44 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 0 is completed
+06-03-2019 17:18:44 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:18:44 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:18:44 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is in progress
+06-03-2019 17:18:45 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is completed
+06-03-2019 17:18:45 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:18:45 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:18:45 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is in progress
+06-03-2019 17:18:47 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is completed
+06-03-2019 17:18:47 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:18:47 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:18:47 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is in progress
+06-03-2019 17:18:49 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is completed
+06-03-2019 17:18:49 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:22:17 [main] INFO  com.pkg.testcases.SetSystemStatus - =======================Logging started==============================
+06-03-2019 17:22:18 [main] INFO  com.pkg.testcases.SetSystemStatus - Row Count is: 6
+06-03-2019 17:22:19 [main] DEBUG com.pkg.testcases.SetSystemStatus - [0, 1, 2, 3, 4, 5]
+06-03-2019 17:22:19 [main] DEBUG com.pkg.testcases.SetSystemStatus - [[1, Flow 15 - 1st scenario, 611, false, ST, 202, 2, 0, null, no update , NA, NA], [2, Flow 15 - 2nd scenario, 612, false, US, 202, 3, 0, null, no update , NA, NA], [3, Flow 15 -3rd scenario, 613, false, FS, 202, 11, 0, AB, no update , NA, NA], [4, Flow 8- 1st scenario, 614, false, ST, 202, 2, 0, null, no update , NA, NA], [5, Flow 8- 2nd scenario, 616, false, US, 202, 3, 0, null, no update , NA, NA], [6, Flow 8- 3rd scenario, 617, false, FS, 202, 11, 0, AB, no update , NA, NA]]
+06-03-2019 17:22:19 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 0 is in progress
+06-03-2019 17:22:23 [main] INFO  com.pkg.testcases.SetSystemStatus - 611
+06-03-2019 17:22:25 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-03-2019 17:22:25 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 1 is in progress
+06-03-2019 17:22:28 [main] INFO  com.pkg.testcases.SetSystemStatus - 612
+06-03-2019 17:23:06 [main] INFO  com.pkg.testcases.DataSetter - Test data creation is started 
+06-03-2019 17:23:08 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:23:08 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 0 is in progress
+06-03-2019 17:23:11 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 0 is completed
+06-03-2019 17:23:11 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:23:11 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:23:11 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is in progress
+06-03-2019 17:23:12 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is completed
+06-03-2019 17:23:12 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:23:12 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:23:12 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is in progress
+06-03-2019 17:23:14 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is completed
+06-03-2019 17:23:14 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:23:14 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:23:14 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is in progress
+06-03-2019 17:23:16 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is completed
+06-03-2019 17:23:16 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:25:54 [main] INFO  com.pkg.testcases.DataSetter - Test data creation is started 
+06-03-2019 17:25:55 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:25:55 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 0 is in progress
+06-03-2019 17:25:58 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 0 is completed
+06-03-2019 17:25:58 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:25:58 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:25:58 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is in progress
+06-03-2019 17:26:01 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is completed
+06-03-2019 17:26:01 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:26:01 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:26:01 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is in progress
+06-03-2019 17:26:03 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is completed
+06-03-2019 17:26:03 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:26:03 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:26:03 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is in progress
+06-03-2019 17:26:05 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is completed
+06-03-2019 17:26:05 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:28:24 [main] INFO  com.pkg.testcases.DataSetter - Test data creation is started 
+06-03-2019 17:28:25 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:28:25 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 0 is in progress
+06-03-2019 17:28:28 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 0 is completed
+06-03-2019 17:28:28 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:28:28 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:28:28 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is in progress
+06-03-2019 17:28:30 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is completed
+06-03-2019 17:28:30 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:28:30 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:28:30 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is in progress
+06-03-2019 17:28:32 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is completed
+06-03-2019 17:28:32 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:28:32 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:28:32 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is in progress
+06-03-2019 17:28:34 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is completed
+06-03-2019 17:28:34 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:29:32 [main] INFO  com.pkg.testcases.DataSetter - Test data creation is started 
+06-03-2019 17:29:34 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:29:34 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is in progress
+06-03-2019 17:29:36 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 0 is completed
+06-03-2019 17:29:36 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:29:36 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:29:36 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is in progress
+06-03-2019 17:29:38 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is completed
+06-03-2019 17:29:38 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:29:38 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:29:38 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 4 is in progress
+06-03-2019 17:29:40 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is completed
+06-03-2019 17:29:40 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:29:40 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:29:40 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 5 is in progress
+06-03-2019 17:29:42 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is completed
+06-03-2019 17:29:42 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:31:29 [main] INFO  com.pkg.testcases.DataSetter - Test data creation is started 
+06-03-2019 17:31:30 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:31:30 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is in progress
+06-03-2019 17:31:33 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is completed
+06-03-2019 17:31:33 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:31:33 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:31:33 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is in progress
+06-03-2019 17:31:35 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is completed
+06-03-2019 17:31:35 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:31:35 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:31:35 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 4 is in progress
+06-03-2019 17:31:37 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 4 is completed
+06-03-2019 17:31:37 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:31:37 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:31:37 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 5 is in progress
+06-03-2019 17:31:39 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 5 is completed
+06-03-2019 17:31:39 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:34:02 [main] INFO  com.pkg.testcases.DataSetter - Tesstarted==============================
+06-03-2019 17:34:03 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1t data creation is started 
+06-03-2019 17:34:03 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging  is in progress
+06-03-2019 17:34:06 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is completed
+06-03-2019 17:34:06 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:34:06 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:34:06 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is in progress
+06-03-2019 17:34:10 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is completed
+06-03-2019 17:34:10 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:34:10 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:34:10 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is in progress
+06-03-2019 17:34:12 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is completed
+06-03-2019 17:34:12 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 17:34:12 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 17:34:12 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 4 is in progress
+06-03-2019 17:34:16 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 4 is completed
+06-03-2019 17:34:16 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:02:00 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 18:03:09 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 18:03:11 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is in progress
+06-03-2019 18:03:14 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is completed
+06-03-2019 18:03:14 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:03:14 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is in progress
+06-03-2019 18:03:16 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is completed
+06-03-2019 18:03:16 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:03:16 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is in progress
+06-03-2019 18:03:17 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is completed
+06-03-2019 18:03:17 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:03:17 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 4 is in progress
+06-03-2019 18:03:22 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 4 is completed
+06-03-2019 18:03:22 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:03:22 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 5 is in progress
+06-03-2019 18:03:23 [main] DEBUG com.pkg.testcases.DataSetter - ===Data setup failed===com.microsoft.sqlserver.jdbc.SQLServerException: Cannot open database "NA" requested by the login. The login failed. ClientConnectionId:b963ab5c-d778-4e61-a27b-e492d78ad817
+06-03-2019 18:03:23 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 6 is in progress
+06-03-2019 18:03:24 [main] DEBUG com.pkg.testcases.DataSetter - ===Data setup failed===com.microsoft.sqlserver.jdbc.SQLServerException: Cannot open database "Identifier" requested by the login. The login failed. ClientConnectionId:05a34b66-c83b-4ae6-b98e-c59c5b72a86c
+06-03-2019 18:03:24 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 7 is in progress
+06-03-2019 18:03:24 [main] DEBUG com.pkg.testcases.DataSetter - ===Data setup failed===java.lang.IndexOutOfBoundsException: Index: 8, Size: 8
+06-03-2019 18:03:24 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 8 is in progress
+06-03-2019 18:03:24 [main] DEBUG com.pkg.testcases.DataSetter - ===Data setup failed===java.lang.IndexOutOfBoundsException: Index: 8, Size: 8
+06-03-2019 18:04:38 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 18:04:40 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is in progress
+06-03-2019 18:04:43 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is completed
+06-03-2019 18:04:43 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:04:43 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is in progress
+06-03-2019 18:04:45 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is completed
+06-03-2019 18:04:45 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:04:45 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is in progress
+06-03-2019 18:04:48 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is completed
+06-03-2019 18:04:48 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:04:48 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 4 is in progress
+06-03-2019 18:04:50 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 4 is completed
+06-03-2019 18:04:50 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:04:50 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 5 is in progress
+06-03-2019 18:04:52 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 5 is completed
+06-03-2019 18:04:52 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:04:52 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 6 is in progress
+06-03-2019 18:04:53 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 6 is completed
+06-03-2019 18:04:53 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:04:53 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 7 is in progress
+06-03-2019 18:04:55 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 7 is completed
+06-03-2019 18:04:55 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:04:55 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 8 is in progress
+06-03-2019 18:04:57 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 8 is completed
+06-03-2019 18:04:57 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:07:12 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 18:07:15 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is in progress
+06-03-2019 18:07:23 [main] DEBUG com.pkg.testcases.DataSetter - ===Data setup failed===com.microsoft.sqlserver.jdbc.SQLServerException: The driver could not establish a secure connection to SQL Server by using Secure Sockets Layer (SSL) encryption. Error: "An existing connection was forcibly closed by the remote host ClientConnectionId:0266a02b-9961-436c-b7f8-506db9b490ce".
+06-03-2019 18:07:23 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is in progress
+06-03-2019 18:07:26 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is completed
+06-03-2019 18:07:26 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:07:26 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is in progress
+06-03-2019 18:07:29 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is completed
+06-03-2019 18:07:29 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:07:29 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 4 is in progress
+06-03-2019 18:07:37 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 4 is completed
+06-03-2019 18:07:37 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:07:37 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 5 is in progress
+06-03-2019 18:07:40 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 5 is completed
+06-03-2019 18:07:40 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:07:40 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 6 is in progress
+06-03-2019 18:07:43 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 6 is completed
+06-03-2019 18:07:43 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:07:43 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 7 is in progress
+06-03-2019 18:07:45 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 7 is completed
+06-03-2019 18:07:45 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:07:45 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 8 is in progress
+06-03-2019 18:07:47 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 8 is completed
+06-03-2019 18:07:47 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:07:47 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 9 is in progress
+06-03-2019 18:07:49 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 9 is completed
+06-03-2019 18:07:49 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:07:49 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 10 is in progress
+06-03-2019 18:07:52 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 10 is completed
+06-03-2019 18:07:52 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:07:52 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 11 is in progress
+06-03-2019 18:07:54 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 11 is completed
+06-03-2019 18:07:54 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:07:54 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 12 is in progress
+06-03-2019 18:08:01 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 12 is completed
+06-03-2019 18:08:01 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:08:01 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 13 is in progress
+06-03-2019 18:08:07 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 13 is completed
+06-03-2019 18:08:07 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:08:07 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 14 is in progress
+06-03-2019 18:08:17 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 14 is completed
+06-03-2019 18:08:17 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:08:17 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 15 is in progress
+06-03-2019 18:09:07 [main] DEBUG com.pkg.testcases.DataSetter - ===Data setup failed===com.microsoft.sqlserver.jdbc.SQLServerException: The driver could not establish a secure connection to SQL Server by using Secure Sockets Layer (SSL) encryption. Error: "Read timed out ClientConnectionId:9e96a63a-1a73-444a-b45a-abb229ff6973".
+06-03-2019 18:09:07 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 16 is in progress
+06-03-2019 18:09:09 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 16 is completed
+06-03-2019 18:09:09 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:09:09 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 17 is in progress
+06-03-2019 18:09:11 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 17 is completed
+06-03-2019 18:09:11 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:09:11 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 18 is in progress
+06-03-2019 18:09:12 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 18 is completed
+06-03-2019 18:09:12 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:09:12 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 19 is in progress
+06-03-2019 18:09:14 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 19 is completed
+06-03-2019 18:09:14 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:09:14 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 20 is in progress
+06-03-2019 18:09:16 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 20 is completed
+06-03-2019 18:09:16 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:09:16 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 21 is in progress
+06-03-2019 18:09:18 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 21 is completed
+06-03-2019 18:09:18 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:09:18 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 22 is in progress
+06-03-2019 18:09:20 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 22 is completed
+06-03-2019 18:09:20 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:09:20 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 23 is in progress
+06-03-2019 18:09:22 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 23 is completed
+06-03-2019 18:09:22 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:09:22 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 24 is in progress
+06-03-2019 18:09:23 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 24 is completed
+06-03-2019 18:09:23 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:10:38 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 18:10:41 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is in progress
+06-03-2019 18:11:19 [main] DEBUG com.pkg.testcases.DataSetter - ===Data setup failed===com.microsoft.sqlserver.jdbc.SQLServerException: The driver could not establish a secure connection to SQL Server by using Secure Sockets Layer (SSL) encryption. Error: "Read timed out ClientConnectionId:a5d98aaa-c546-4c14-a3b1-202b0a54f9c5".
+06-03-2019 18:11:19 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is in progress
+06-03-2019 18:12:19 [main] INFO  com.pkg.testcases.SetSystemStatus - =======================Logging started==============================
+06-03-2019 18:12:20 [main] INFO  com.pkg.testcases.SetSystemStatus - Row Count is: 3
+06-03-2019 18:12:21 [main] DEBUG com.pkg.testcases.SetSystemStatus - [0, 1, 2]
+06-03-2019 18:12:21 [main] DEBUG com.pkg.testcases.SetSystemStatus - [[1, Flow 12 -1st scenario, 618, false, ST, 202, 2, 0, null, 19, NA, NA], [2, Flow 12 -2nd scenario, 621, false, US, 202, 3, 0, null, 19, NA, NA], [3, Flow 12 -3rd scenario, 625, false, FS, 202, 11, 0, AB, 19, NA, NA]]
+06-03-2019 18:12:21 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 0 is in progress
+06-03-2019 18:12:24 [main] INFO  com.pkg.testcases.SetSystemStatus - 618
+06-03-2019 18:12:26 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-03-2019 18:12:26 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 1 is in progress
+06-03-2019 18:12:30 [main] INFO  com.pkg.testcases.SetSystemStatus - 621
+06-03-2019 18:12:32 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-03-2019 18:12:32 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 2 is in progress
+06-03-2019 18:12:35 [main] INFO  com.pkg.testcases.SetSystemStatus - 625
+06-03-2019 18:12:37 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-03-2019 18:12:37 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 0 is in progress
+06-03-2019 18:14:24 [main] INFO  com.pkg.testcases.SetSystemStatus - postSettlementDispute- 0 is in progress
+06-03-2019 18:14:24 [main] DEBUG com.pkg.testcases.SetSystemStatus - ===Test case failed===java.lang.AssertionError: expected [19] but found [1]
+06-03-2019 18:14:24 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 1 is in progress
+06-03-2019 18:14:31 [main] DEBUG com.pkg.testcases.SetSystemStatus - ===Test case failed===java.lang.AssertionError: expected [3] but found [1]
+06-03-2019 18:14:31 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 2 is in progress
+06-03-2019 18:14:37 [main] DEBUG com.pkg.testcases.SetSystemStatus - ===Test case failed===java.lang.AssertionError: expected [11] but found [1]
+06-03-2019 18:16:54 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-03-2019 18:16:57 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is in progress
+06-03-2019 18:17:00 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is completed
+06-03-2019 18:17:00 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:17:00 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is in progress
+06-03-2019 18:17:01 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is completed
+06-03-2019 18:17:01 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:17:01 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is in progress
+06-03-2019 18:17:03 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is completed
+06-03-2019 18:17:03 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:17:03 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 4 is in progress
+06-03-2019 18:17:05 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 4 is completed
+06-03-2019 18:17:05 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:17:05 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 5 is in progress
+06-03-2019 18:17:07 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 5 is completed
+06-03-2019 18:17:07 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:17:07 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 6 is in progress
+06-03-2019 18:17:09 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 6 is completed
+06-03-2019 18:17:09 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:17:09 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 7 is in progress
+06-03-2019 18:17:11 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 7 is completed
+06-03-2019 18:17:11 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:17:11 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 8 is in progress
+06-03-2019 18:17:13 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 8 is completed
+06-03-2019 18:17:13 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:17:13 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 9 is in progress
+06-03-2019 18:17:15 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 9 is completed
+06-03-2019 18:17:15 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:17:15 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 10 is in progress
+06-03-2019 18:17:17 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 10 is completed
+06-03-2019 18:17:17 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:17:17 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 11 is in progress
+06-03-2019 18:17:19 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 11 is completed
+06-03-2019 18:17:19 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:17:19 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 12 is in progress
+06-03-2019 18:17:31 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 12 is completed
+06-03-2019 18:17:31 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:17:31 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 13 is in progress
+06-03-2019 18:17:35 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 13 is completed
+06-03-2019 18:17:35 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:17:35 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 14 is in progress
+06-03-2019 18:17:40 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 14 is completed
+06-03-2019 18:17:40 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:17:40 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 15 is in progress
+06-03-2019 18:17:42 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 15 is completed
+06-03-2019 18:17:42 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:17:42 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 16 is in progress
+06-03-2019 18:17:45 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 16 is completed
+06-03-2019 18:17:45 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:17:45 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 17 is in progress
+06-03-2019 18:17:50 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 17 is completed
+06-03-2019 18:17:50 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:17:50 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 18 is in progress
+06-03-2019 18:17:52 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 18 is completed
+06-03-2019 18:17:52 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:17:52 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 19 is in progress
+06-03-2019 18:17:53 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 19 is completed
+06-03-2019 18:17:53 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:17:53 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 20 is in progress
+06-03-2019 18:17:55 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 20 is completed
+06-03-2019 18:17:55 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:17:55 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 21 is in progress
+06-03-2019 18:17:58 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 21 is completed
+06-03-2019 18:17:58 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:17:58 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 22 is in progress
+06-03-2019 18:18:00 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 22 is completed
+06-03-2019 18:18:00 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:18:00 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 23 is in progress
+06-03-2019 18:18:02 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 23 is completed
+06-03-2019 18:18:02 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:18:02 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 24 is in progress
+06-03-2019 18:18:04 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 24 is completed
+06-03-2019 18:18:04 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-03-2019 18:18:36 [main] INFO  com.pkg.testcases.SetSystemStatus - =======================Logging started==============================
+06-03-2019 18:18:37 [main] INFO  com.pkg.testcases.SetSystemStatus - Row Count is: 3
+06-03-2019 18:18:38 [main] DEBUG com.pkg.testcases.SetSystemStatus - [0, 1, 2]
+06-03-2019 18:18:38 [main] DEBUG com.pkg.testcases.SetSystemStatus - [[1, Flow 12 -1st scenario, 618, false, ST, 202, 2, 0, null, 19, NA, NA], [2, Flow 12 -2nd scenario, 621, false, US, 202, 3, 0, null, 19, NA, NA], [3, Flow 12 -3rd scenario, 625, false, FS, 202, 11, 0, AB, 19, NA, NA]]
+06-03-2019 18:18:38 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 0 is in progress
+06-03-2019 18:18:41 [main] INFO  com.pkg.testcases.SetSystemStatus - 618
+06-03-2019 18:18:43 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-03-2019 18:18:43 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 1 is in progress
+06-03-2019 18:18:46 [main] INFO  com.pkg.testcases.SetSystemStatus - 621
+06-03-2019 18:18:48 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-03-2019 18:18:48 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 2 is in progress
+06-03-2019 18:18:50 [main] INFO  com.pkg.testcases.SetSystemStatus - 625
+06-03-2019 18:18:52 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-03-2019 18:18:52 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 0 is in progress
+06-03-2019 18:19:11 [main] DEBUG com.pkg.testcases.SetSystemStatus - ===Test case failed===java.util.concurrent.ExecutionException: java.net.ConnectException: handshake timed out
+06-03-2019 18:19:11 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 1 is in progress
+06-03-2019 18:19:22 [main] DEBUG com.pkg.testcases.SetSystemStatus - ===Test case failed===java.util.concurrent.ExecutionException: java.net.ConnectException: handshake timed out
+06-03-2019 18:19:22 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 2 is in progress
+06-03-2019 18:19:41 [main] INFO  com.pkg.testcases.SetSystemStatus - postSettlementDispute- 2 is in progress
+06-03-2019 18:19:41 [main] DEBUG com.pkg.testcases.SetSystemStatus - ===Test case failed===java.lang.AssertionError: expected [19] but found [4]
+06-03-2019 18:21:18 [main] INFO  com.pkg.testcases.SetSystemStatus - =======================Logging started==============================
+06-03-2019 18:21:19 [main] INFO  com.pkg.testcases.SetSystemStatus - Row Count is: 3
+06-03-2019 18:21:20 [main] DEBUG com.pkg.testcases.SetSystemStatus - [0, 1, 2]
+06-03-2019 18:21:20 [main] DEBUG com.pkg.testcases.SetSystemStatus - [[1, Flow 12 -1st scenario, 618, false, ST, 202, 2, 0, null, 19, NA, NA], [2, Flow 12 -2nd scenario, 621, false, US, 202, 3, 0, null, 19, NA, NA], [3, Flow 12 -3rd scenario, 625, false, FS, 202, 11, 0, AB, 19, NA, NA]]
+06-03-2019 18:21:20 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 0 is in progress
+06-03-2019 18:21:28 [main] INFO  com.pkg.testcases.SetSystemStatus - 618
+06-03-2019 18:21:30 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-03-2019 18:21:30 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 1 is in progress
+06-03-2019 18:22:11 [main] INFO  com.pkg.testcases.SetSystemStatus - 621
+06-03-2019 18:22:13 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-03-2019 18:22:13 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 2 is in progress
+06-03-2019 18:22:16 [main] INFO  com.pkg.testcases.SetSystemStatus - 625
+06-03-2019 18:22:18 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-03-2019 18:22:18 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 0 is in progress
+06-03-2019 18:22:40 [main] INFO  com.pkg.testcases.SetSystemStatus - postSettlementDispute- 0 is in progress
+06-03-2019 18:22:41 [main] DEBUG com.pkg.testcases.SetSystemStatus - ===Test case failed===java.lang.AssertionError: expected [19] but found [1]
+06-03-2019 18:22:41 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 1 is in progress
+06-03-2019 18:22:58 [main] DEBUG com.pkg.testcases.SetSystemStatus - ===Test case failed===java.lang.AssertionError: expected [3] but found [1]
+06-03-2019 18:22:58 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 2 is in progress
+06-03-2019 18:23:04 [main] INFO  com.pkg.testcases.SetSystemStatus - postSettlementDispute- 2 is in progress
+06-03-2019 18:23:05 [main] DEBUG com.pkg.testcases.SetSystemStatus - ===Test case failed===java.lang.AssertionError: expected [19] but found [4]
+06-04-2019 11:01:31 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-04-2019 11:01:35 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is in progress
+06-04-2019 11:01:38 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is completed
+06-04-2019 11:01:38 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:01:38 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is in progress
+06-04-2019 11:01:41 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is completed
+06-04-2019 11:01:41 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:01:41 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is in progress
+06-04-2019 11:01:43 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is completed
+06-04-2019 11:01:43 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:01:43 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 4 is in progress
+06-04-2019 11:01:45 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 4 is completed
+06-04-2019 11:01:45 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:01:45 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 5 is in progress
+06-04-2019 11:01:46 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 5 is completed
+06-04-2019 11:01:46 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:01:46 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 6 is in progress
+06-04-2019 11:01:48 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 6 is completed
+06-04-2019 11:01:48 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:01:48 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 7 is in progress
+06-04-2019 11:01:50 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 7 is completed
+06-04-2019 11:01:50 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:01:50 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 8 is in progress
+06-04-2019 11:01:52 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 8 is completed
+06-04-2019 11:01:52 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:01:52 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 9 is in progress
+06-04-2019 11:01:53 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 9 is completed
+06-04-2019 11:01:53 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:01:53 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 10 is in progress
+06-04-2019 11:01:55 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 10 is completed
+06-04-2019 11:01:55 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:01:55 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 11 is in progress
+06-04-2019 11:01:57 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 11 is completed
+06-04-2019 11:01:57 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:01:57 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 12 is in progress
+06-04-2019 11:01:59 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 12 is completed
+06-04-2019 11:01:59 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:01:59 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 13 is in progress
+06-04-2019 11:02:00 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 13 is completed
+06-04-2019 11:02:00 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:00 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 14 is in progress
+06-04-2019 11:02:02 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 14 is completed
+06-04-2019 11:02:02 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:02 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 15 is in progress
+06-04-2019 11:02:04 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 15 is completed
+06-04-2019 11:02:04 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:04 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 16 is in progress
+06-04-2019 11:02:06 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 16 is completed
+06-04-2019 11:02:06 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:06 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 17 is in progress
+06-04-2019 11:02:07 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 17 is completed
+06-04-2019 11:02:07 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:07 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 18 is in progress
+06-04-2019 11:02:09 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 18 is completed
+06-04-2019 11:02:09 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:09 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 19 is in progress
+06-04-2019 11:02:11 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 19 is completed
+06-04-2019 11:02:11 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:11 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 20 is in progress
+06-04-2019 11:02:14 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 20 is completed
+06-04-2019 11:02:14 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:14 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 21 is in progress
+06-04-2019 11:02:16 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 21 is completed
+06-04-2019 11:02:16 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:16 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 22 is in progress
+06-04-2019 11:02:18 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 22 is completed
+06-04-2019 11:02:18 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:18 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 23 is in progress
+06-04-2019 11:02:20 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 23 is completed
+06-04-2019 11:02:20 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:20 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 24 is in progress
+06-04-2019 11:02:22 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 24 is completed
+06-04-2019 11:02:22 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:22 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 25 is in progress
+06-04-2019 11:02:24 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 25 is completed
+06-04-2019 11:02:24 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:24 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 26 is in progress
+06-04-2019 11:02:26 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 26 is completed
+06-04-2019 11:02:26 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:26 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 27 is in progress
+06-04-2019 11:02:28 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 27 is completed
+06-04-2019 11:02:28 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:28 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 28 is in progress
+06-04-2019 11:02:30 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 28 is completed
+06-04-2019 11:02:30 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:30 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 29 is in progress
+06-04-2019 11:02:32 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 29 is completed
+06-04-2019 11:02:32 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:32 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 30 is in progress
+06-04-2019 11:02:34 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 30 is completed
+06-04-2019 11:02:34 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:34 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 31 is in progress
+06-04-2019 11:02:37 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 31 is completed
+06-04-2019 11:02:37 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:37 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 32 is in progress
+06-04-2019 11:02:39 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 32 is completed
+06-04-2019 11:02:39 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:39 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 33 is in progress
+06-04-2019 11:02:41 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 33 is completed
+06-04-2019 11:02:41 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:41 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 34 is in progress
+06-04-2019 11:02:43 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 34 is completed
+06-04-2019 11:02:43 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:43 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 35 is in progress
+06-04-2019 11:02:45 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 35 is completed
+06-04-2019 11:02:45 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:45 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 36 is in progress
+06-04-2019 11:02:47 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 36 is completed
+06-04-2019 11:02:47 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:47 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 37 is in progress
+06-04-2019 11:02:49 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 37 is completed
+06-04-2019 11:02:49 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:49 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 38 is in progress
+06-04-2019 11:02:51 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 38 is completed
+06-04-2019 11:02:51 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:51 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 39 is in progress
+06-04-2019 11:02:52 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 39 is completed
+06-04-2019 11:02:52 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:52 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 40 is in progress
+06-04-2019 11:02:54 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 40 is completed
+06-04-2019 11:02:54 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:54 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 41 is in progress
+06-04-2019 11:02:56 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 41 is completed
+06-04-2019 11:02:56 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:56 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 42 is in progress
+06-04-2019 11:02:58 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 42 is completed
+06-04-2019 11:02:58 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:58 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 43 is in progress
+06-04-2019 11:02:59 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 43 is completed
+06-04-2019 11:02:59 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:02:59 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 44 is in progress
+06-04-2019 11:03:01 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 44 is completed
+06-04-2019 11:03:01 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:03:01 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 45 is in progress
+06-04-2019 11:03:03 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 45 is completed
+06-04-2019 11:03:03 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:03:03 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 46 is in progress
+06-04-2019 11:03:05 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 46 is completed
+06-04-2019 11:03:05 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:03:05 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 47 is in progress
+06-04-2019 11:03:06 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 47 is completed
+06-04-2019 11:03:06 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:03:06 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 48 is in progress
+06-04-2019 11:03:08 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 48 is completed
+06-04-2019 11:03:08 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 11:04:11 [main] INFO  com.pkg.testcases.SetSystemStatus - =======================Logging started==============================
+06-04-2019 11:04:12 [main] INFO  com.pkg.testcases.SetSystemStatus - Row Count is: 3
+06-04-2019 11:04:13 [main] DEBUG com.pkg.testcases.SetSystemStatus - [0, 1, 2]
+06-04-2019 11:04:13 [main] DEBUG com.pkg.testcases.SetSystemStatus - [[1, Flow 8- 1st scenario, 614, false, ST, 202, 2, 0, null, no update , NA, NA], [2, Flow 8- 2nd scenario, 616, false, US, 202, 3, 0, null, no update , NA, NA], [3, Flow 8- 3rd scenario, 617, false, FS, 202, 11, 0, AB, no update , NA, NA]]
+06-04-2019 11:04:13 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 0 is in progress
+06-04-2019 11:04:19 [main] INFO  com.pkg.testcases.SetSystemStatus - 614
+06-04-2019 11:04:21 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-04-2019 11:04:21 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 1 is in progress
+06-04-2019 11:04:23 [main] INFO  com.pkg.testcases.SetSystemStatus - 616
+06-04-2019 11:04:25 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-04-2019 11:04:25 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 2 is in progress
+06-04-2019 11:04:28 [main] INFO  com.pkg.testcases.SetSystemStatus - 617
+06-04-2019 11:04:30 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-04-2019 11:04:30 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 0 is in progress
+06-04-2019 11:06:53 [main] INFO  com.pkg.testcases.SetSystemStatus - postSettlementDispute- 0 is in progress
+06-04-2019 11:06:53 [main] DEBUG com.pkg.testcases.SetSystemStatus - ===Test case failed===java.lang.NumberFormatException: For input string: "no update "
+06-04-2019 11:06:53 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 1 is in progress
+06-04-2019 11:06:59 [main] INFO  com.pkg.testcases.SetSystemStatus - postSettlementDispute- 1 is in progress
+06-04-2019 11:06:59 [main] DEBUG com.pkg.testcases.SetSystemStatus - ===Test case failed===java.lang.NumberFormatException: For input string: "no update "
+06-04-2019 11:06:59 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 2 is in progress
+06-04-2019 11:07:05 [main] INFO  com.pkg.testcases.SetSystemStatus - postSettlementDispute- 2 is in progress
+06-04-2019 11:07:05 [main] DEBUG com.pkg.testcases.SetSystemStatus - ===Test case failed===java.lang.NumberFormatException: For input string: "no update "
+06-04-2019 12:19:32 [main] INFO  com.pkg.testcases.DataSetter - =======================Logging started==============================
+06-04-2019 12:19:35 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is in progress
+06-04-2019 12:19:38 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 1 is completed
+06-04-2019 12:19:38 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:19:38 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is in progress
+06-04-2019 12:19:40 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 2 is completed
+06-04-2019 12:19:40 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:19:40 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is in progress
+06-04-2019 12:19:42 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 3 is completed
+06-04-2019 12:19:42 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:19:42 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 4 is in progress
+06-04-2019 12:19:43 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 4 is completed
+06-04-2019 12:19:43 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:19:43 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 5 is in progress
+06-04-2019 12:19:45 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 5 is completed
+06-04-2019 12:19:45 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:19:45 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 6 is in progress
+06-04-2019 12:19:47 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 6 is completed
+06-04-2019 12:19:47 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:19:47 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 7 is in progress
+06-04-2019 12:19:49 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 7 is completed
+06-04-2019 12:19:49 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:19:49 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 8 is in progress
+06-04-2019 12:19:51 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 8 is completed
+06-04-2019 12:19:51 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:19:51 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 9 is in progress
+06-04-2019 12:19:53 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 9 is completed
+06-04-2019 12:19:53 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:19:53 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 10 is in progress
+06-04-2019 12:19:54 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 10 is completed
+06-04-2019 12:19:54 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:19:54 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 11 is in progress
+06-04-2019 12:19:56 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 11 is completed
+06-04-2019 12:19:56 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:19:56 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 12 is in progress
+06-04-2019 12:19:58 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 12 is completed
+06-04-2019 12:19:58 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:19:58 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 13 is in progress
+06-04-2019 12:20:00 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 13 is completed
+06-04-2019 12:20:00 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:20:00 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 14 is in progress
+06-04-2019 12:20:02 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 14 is completed
+06-04-2019 12:20:02 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:20:02 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 15 is in progress
+06-04-2019 12:20:03 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 15 is completed
+06-04-2019 12:20:03 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:20:03 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 16 is in progress
+06-04-2019 12:20:05 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 16 is completed
+06-04-2019 12:20:05 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:20:05 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 17 is in progress
+06-04-2019 12:20:07 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 17 is completed
+06-04-2019 12:20:07 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:20:07 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 18 is in progress
+06-04-2019 12:20:09 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 18 is completed
+06-04-2019 12:20:09 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:20:09 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 19 is in progress
+06-04-2019 12:20:11 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 19 is completed
+06-04-2019 12:20:11 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:20:11 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 20 is in progress
+06-04-2019 12:20:12 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 20 is completed
+06-04-2019 12:20:12 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:20:12 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 21 is in progress
+06-04-2019 12:20:14 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 21 is completed
+06-04-2019 12:20:14 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:20:14 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 22 is in progress
+06-04-2019 12:20:16 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 22 is completed
+06-04-2019 12:20:16 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:20:16 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 23 is in progress
+06-04-2019 12:20:18 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 23 is completed
+06-04-2019 12:20:18 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:20:18 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 24 is in progress
+06-04-2019 12:20:20 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 24 is completed
+06-04-2019 12:20:20 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:20:20 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 25 is in progress
+06-04-2019 12:20:21 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 25 is completed
+06-04-2019 12:20:21 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:20:21 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 26 is in progress
+06-04-2019 12:20:23 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 26 is completed
+06-04-2019 12:20:23 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:20:23 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 27 is in progress
+06-04-2019 12:20:25 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 27 is completed
+06-04-2019 12:20:25 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:20:25 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 28 is in progress
+06-04-2019 12:20:27 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 28 is completed
+06-04-2019 12:20:27 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:20:27 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 29 is in progress
+06-04-2019 12:20:29 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 29 is completed
+06-04-2019 12:20:29 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:20:29 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 30 is in progress
+06-04-2019 12:20:30 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 30 is completed
+06-04-2019 12:20:30 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:20:30 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 31 is in progress
+06-04-2019 12:20:32 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 31 is completed
+06-04-2019 12:20:32 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:20:32 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 32 is in progress
+06-04-2019 12:20:34 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 32 is completed
+06-04-2019 12:20:34 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:20:34 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 33 is in progress
+06-04-2019 12:20:36 [main] INFO  com.pkg.testcases.DataSetter - Data set up for Sr. No. : 33 is completed
+06-04-2019 12:20:36 [main] INFO  com.pkg.testcases.DataSetter - ==Data set Up Passed===
+06-04-2019 12:21:56 [main] INFO  com.pkg.testcases.SetSystemStatus - =======================Logging started==============================
+06-04-2019 12:21:57 [main] INFO  com.pkg.testcases.SetSystemStatus - Row Count is: 3
+06-04-2019 12:21:58 [main] DEBUG com.pkg.testcases.SetSystemStatus - [0, 1, 2]
+06-04-2019 12:21:58 [main] DEBUG com.pkg.testcases.SetSystemStatus - [[1, Flow 12 -1st scenario, 618, false, ST, 202, 2, 0, null, 19, NA, NA], [2, Flow 12 -2nd scenario, 621, false, US, 202, 3, 0, null, 19, NA, NA], [3, Flow 12 -3rd scenario, 625, false, FS, 202, 11, 0, AB, 19, NA, NA]]
+06-04-2019 12:21:58 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 0 is in progress
+06-04-2019 12:22:02 [main] INFO  com.pkg.testcases.SetSystemStatus - 618
+06-04-2019 12:22:04 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-04-2019 12:22:04 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 1 is in progress
+06-04-2019 12:22:06 [main] INFO  com.pkg.testcases.SetSystemStatus - 621
+06-04-2019 12:22:08 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-04-2019 12:22:08 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 2 is in progress
+06-04-2019 12:22:10 [main] INFO  com.pkg.testcases.SetSystemStatus - 625
+06-04-2019 12:22:12 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-04-2019 12:22:12 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 0 is in progress
+06-04-2019 12:22:34 [main] INFO  com.pkg.testcases.SetSystemStatus - postSettlementDispute- 0 is in progress
+06-04-2019 12:22:35 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-04-2019 12:22:35 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 1 is in progress
+06-04-2019 12:22:41 [main] DEBUG com.pkg.testcases.SetSystemStatus - ===Test case failed===java.lang.AssertionError: expected [3] but found [1]
+06-04-2019 12:22:41 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 2 is in progress
+06-04-2019 12:22:47 [main] INFO  com.pkg.testcases.SetSystemStatus - postSettlementDispute- 2 is in progress
+06-04-2019 12:22:48 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-04-2019 12:26:25 [main] INFO  com.pkg.testcases.SetSystemStatus - =======================Logging started==============================
+06-04-2019 12:26:27 [main] INFO  com.pkg.testcases.SetSystemStatus - Row Count is: 3
+06-04-2019 12:26:28 [main] DEBUG com.pkg.testcases.SetSystemStatus - [0, 1, 2]
+06-04-2019 12:26:28 [main] DEBUG com.pkg.testcases.SetSystemStatus - [[1, Flow 12 -1st scenario, 618, false, ST, 202, 2, 0, null, 19, NA, NA], [2, Flow 12 -2nd scenario, 621, false, US, 202, 3, 0, null, 19, NA, NA], [3, Flow 12 -3rd scenario, 625, false, FS, 202, 11, 0, AB, 19, NA, NA]]
+06-04-2019 12:26:28 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 0 is in progress
+06-04-2019 12:26:32 [main] INFO  com.pkg.testcases.SetSystemStatus - 618
+06-04-2019 12:26:34 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-04-2019 12:26:34 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 1 is in progress
+06-04-2019 12:26:36 [main] INFO  com.pkg.testcases.SetSystemStatus - 621
+06-04-2019 12:26:38 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-04-2019 12:26:38 [main] INFO  com.pkg.testcases.SetSystemStatus - postSyStemProcessTest- 2 is in progress
+06-04-2019 12:26:41 [main] INFO  com.pkg.testcases.SetSystemStatus - 625
+06-04-2019 12:26:43 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-04-2019 12:26:43 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 0 is in progress
+06-04-2019 12:27:00 [main] INFO  com.pkg.testcases.SetSystemStatus - postSettlementDispute- 0 is in progress
+06-04-2019 12:27:01 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===
+06-04-2019 12:27:01 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 1 is in progress
+06-04-2019 12:27:07 [main] DEBUG com.pkg.testcases.SetSystemStatus - ===Test case failed===java.lang.AssertionError: expected [3] but found [1]
+06-04-2019 12:27:07 [main] INFO  com.pkg.testcases.SetSystemStatus - DBValidation- 2 is in progress
+06-04-2019 12:27:13 [main] INFO  com.pkg.testcases.SetSystemStatus - postSettlementDispute- 2 is in progress
+06-04-2019 12:27:14 [main] INFO  com.pkg.testcases.SetSystemStatus - ==Test casses  Passed===

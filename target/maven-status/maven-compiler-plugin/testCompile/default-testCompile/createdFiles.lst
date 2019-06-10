@@ -1,0 +1,13 @@
+com\pkg\base\ReusableMethods.class
+com\pkg\utilities\SendEmail.class
+com\pkg\dbvalidation\DataBaseConnection.class
+com\pkg\repositories\RequestPath.class
+com\pkg\repositories\RequestPayLoad.class
+com\pkg\testcases\EDI_Validation.class
+com\pkg\utilities\ExcelReader.class
+com\pkg\utilities\ExtentReport.class
+com\pkg\repositories\Configuration.class
+com\pkg\base\TestMethodGetRequest.class
+com\pkg\dbvalidation\QueryRepositories.class
+com\pkg\testcases\SetSystemStatus.class
+com\pkg\utilities\SendEmail$1.class

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 70.196 s <<< FAILURE! - in TestSuite
+dataBaseValidation(com.pkg.testcases.SetSystemStatus)  Time elapsed: 6.313 s  <<< FAILURE!
+java.lang.AssertionError: expected [3] but found [1]
+	at com.pkg.testcases.SetSystemStatus.dataBaseValidation(SetSystemStatus.java:164)
+

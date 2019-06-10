@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+	<properties>
+		<property name="basePath">./src/test/resources/Logs</property>
+	</properties>
+	<Appenders>
+		<RollingFile name="File" fileName="${basePath}/execution.log"
+			filePattern="${basePath}/execution-%d{MM-dd-yyyy}.log"
+			ignoreExceptions="false">
+			<PatternLayout pattern="%d{MM-dd-yyyy HH:mm:ss} [%t] %-5level %logger{36} - %msg%n" />
+			<SizeBasedTriggeringPolicy size="200MB" />
+		</RollingFile>
+		<Console name="Console" target="SYSTEM_OUT">
+			<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		</Console> 
+	</Appenders>
+	<Loggers>
+		<Logger name="com.pkg.testcases.DataSetter" level="debug"
+			additivity="false">
+			<AppenderRef ref="File" />
+		</Logger>
+		Loggers>
+		<Logger name="com.pkg.testcases.SetSystemStatus" level="debug"
+			additivity="false">
+			<AppenderRef ref="File" />
+		</Logger>
+		<Root level="error">
+			<AppenderRef ref="Console" />
+		</Root>
+	</Loggers>
+</Configuration>
